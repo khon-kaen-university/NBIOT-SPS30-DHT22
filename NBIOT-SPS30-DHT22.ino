@@ -7,9 +7,9 @@
 #define DHTTYPE DHT22
 
 String apnName = "devkit.nb";
-String serverIP = "202.28.95.210";
-String serverPort = "40213";
-String nodeName = "13";
+String serverIP = "{IP Server}";
+String serverPort = "{Port}";
+String nodeName = "{node number}";
 
 AIS_NB_BC95 AISnb;
 SPS30 sps30;
